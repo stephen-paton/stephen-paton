@@ -1,8 +1,6 @@
-- 👋 Hi, I’m **@stephen-paton**
-- 👀 I’m interested in **Game Engine Architecture and Design**
-- 🌱 I’m currently learning **Rust**
-- 💞️ I’m looking to collaborate on **Video Games**
-- 📫 How to reach me **stephenpaton.tech@gmail.com**
+👋 Hi, I’m **@stephen-paton**
+
+🖥️ A full-stack web developer by day and hobbyist game developer by night 🎮
 
 <!---
 stephen-paton/stephen-paton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
